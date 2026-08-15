@@ -23,7 +23,7 @@ el director de una escuela esta organisando un viaje de estudios, y requiere det
   
 durante una inspeccion de rutina, se mide la temperatura de un motor. si la temperatura es mayor a un valorcritico, debe indicar ¨peligro: sobrecalentameniento¨. si esta dentro del rango seguro, indicar ¨Operacion normal¨. si es demaciado baja, indicar ¨motor frio-calentar antes de operar¨  
 ### DIAGRAMA DE FLUJO  
-![imagen ejercicio 5](imagen/motor.jpeg)
+![imagen ejercicio 5](imagen/tempmotor.jpeg)
   
 ## EJERCICIO 6  
 un sistema debe registrar la altitud de vuelo cada 10 minutos durante una hora y mostrar todas las mediciones al final.   
