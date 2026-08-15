@@ -85,4 +85,18 @@ NO. porque es una estructura de datos o un conjuntos organizado de informacion s
   
 ## PARTE 2: Variables y constantes.  
   
+### 1. el valor de la gravedad en la tierra, 9.8m/s  
+COSTANTE: porque el valor dado de la gravedad de la tierra es un valor fijo y predeterminado dentro del comtexto de calculo.  
+  
+### 2. la edad de una persona calculada con base en el año actual y su año de nacimiento.  
+VARIABLE: porque cambia a medida que trascurre el tiempo "el año actual aumenta".  
+  
+### 3. la cantidad de dinero en una cuenta bancaria.  
+VARIABLE: porque puede aumentar o disminuir con depositos o retiros de la cuenta.  
+  
+### 4. la velocidad de la luz en el vacio, 299,792,458 m/s  
+COSTANTE: porque su valor exacto en el vacio no cambia.  
+  
+### 5. el radio de un circulo.  
+VARIABLE: porque depende de las dimenciones del circulo en cuention; no tiene un valor fijo.  
 
