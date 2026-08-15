@@ -51,4 +51,10 @@ mostrar "activar climatizacion"
 Fin si cont=cont+1  
 fin mientras  
 fin  
+  
+  
+## EJERCICIO 8  
+Un almacen de ropa tiene una promocion: por comprar superiores a $250.000 se les aplicara un descuento de 15%, de lo contrario, solo se aplicara un 8% de descuento.realicar un algoritmo para determinar el precio final que debe pagar una persona por comprar en dicho almacen.  
+### DIAGRAMA DE FLUJO  
+![imagen ejercicio 8](imagenes/compra.png)  
 
