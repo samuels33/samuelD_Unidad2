@@ -20,10 +20,37 @@ el director de una escuela esta organisando un viaje de estudios, y requiere det
   
 ## EJERCICIO 5  
 **control de temperatura de motor**  
-  
 durante una inspeccion de rutina, se mide la temperatura de un motor. si la temperatura es mayor a un valorcritico, debe indicar ¨peligro: sobrecalentameniento¨. si esta dentro del rango seguro, indicar ¨Operacion normal¨. si es demaciado baja, indicar ¨motor frio-calentar antes de operar¨  
 ### DIAGRAMA DE FLUJO  
-![imagen ejercicio 5](imagen/tempmotor.jpeg)
+![imagen ejercicio 5](imagenes/tempmotor.jpeg)  
+
+## EJERCICIO 6
+un sistema debe registrar la altitud de vuelo cada 10 minutos durante una hora y mostrar todas las mediciones al final. 
+**En Pseudocodigo**
+Inicio
+cont=0
+leer nivel
+Mientras nivel ≥ max*0.1
+cont=cont+1
+leer nivel
+fin mientras
+mostrar "Tiempo trasmitido" cont
+fin
+
+## EJERCICIO 7
+un sistema que mide 5 minutos la temoeratura en cabina durante una hora. si en algun momento se dectecta un temoeratura mayor a 27°c o menor a 18°c, se debe indicar qie se active el sistema de climatizacion.
+
+**En Pseudocodigo**
+Inicio
+cont=0
+leer temp
+miestras cont<12
+Si temp>27 o temp<12
+mostrar "activar climatizacion"
+Fin si cont=cont+1
+ejercicios.md[+] [unix] (15:24 15/08/2026)                                                                     26,30 87%
+-- INSERT --
+)
   
 ## EJERCICIO 6  
 un sistema debe registrar la altitud de vuelo cada 10 minutos durante una hora y mostrar todas las mediciones al final.   
