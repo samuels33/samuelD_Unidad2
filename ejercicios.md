@@ -25,7 +25,7 @@ durante una inspeccion de rutina, se mide la temperatura de un motor. si la temp
 ### DIAGRAMA DE FLUJO  
 ![imagen ejercicio 5](imagenes/tempmotor.jpeg)  
   
-## 🛩️🛩️ EJERCICIO 🛩️🛩️  
+## 🛩️🛩️ EJERCICIO 6 🛩️🛩️  
 un sistema debe registrar la altitud de vuelo cada 10 minutos durante una hora y mostrar todas las mediciones al final.   
 **En Pseudocodigo**  
 Inicio  
@@ -57,4 +57,9 @@ fin
 Un almacen de ropa tiene una promocion: por comprar superiores a $250.000 se les aplicara un descuento de 15%, de lo contrario, solo se aplicara un 8% de descuento.realicar un algoritmo para determinar el precio final que debe pagar una persona por comprar en dicho almacen.  
 ### DIAGRAMA DE FLUJO  
 ![imagen ejercicio 8](imagenes/compra.png)  
+  
+## EJERCICIO 9  
+Un usuario necesita determinar cuantos litros o galones de agua caben en un acuario, pero solo dispone de una cinta metrica "en centimetro". diseña un algoritmo para solucionar el problema.  
+### 🐠🐠🐠DIAGRAMA DE FLUJO🐠🐠🐠  
+![imagen ejercicio 9](imagenes/acuario.jpeg)  
 
