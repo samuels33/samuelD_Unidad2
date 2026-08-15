@@ -62,4 +62,27 @@ Un almacen de ropa tiene una promocion: por comprar superiores a $250.000 se les
 Un usuario necesita determinar cuantos litros o galones de agua caben en un acuario, pero solo dispone de una cinta metrica "en centimetro". diseña un algoritmo para solucionar el problema.  
 ### 🐠🐠🐠DIAGRAMA DE FLUJO🐠🐠🐠  
 ![imagen ejercicio 9](imagenes/acuario.jpeg)  
+  
+# RESPONDER LAS SIGUIENTES PREGUNTAS SI CORRESPONDE O NO CON LAS DEFINICIONES O CONCEPTOS APRENDIDOS EN CLASE.  
+  
+  
+## PARTE 1: Identificar Algoritmos.  
+  
+### 1. UNA PAGINA WED.  
+NO. porque una pagina web es un producto o un conjunto de datos/archivos que se renderizan visualemnte.  
+  
+### 2. una receta para hacer un partel, donde se indican ingredientes y pasos a seguir.  
+SI. porque cumple con las caracteristicas fundamentales: los ingredientes reprecentan los datos de entrada, las instruciones estructuradas en orden logico son el procesamiento, y el pastel el resultado final "salida".  
+  
+### 3. piensa en un numero y multiplicalo por otro.  
+NO. porque es un enunciado ambiguo e imcompleto. le falta precicion y un criterio mas claro.  
+  
+### 4. un manual de instruciones para ar,ar un mueble, con pasos detallados y un orden claro.  
+SI. porque contiene una secuencia finita, logica y determinante pasos ordenados.  
+  
+### 5. una lista de compras organizada en orden alfabetico.  
+NO. porque es una estructura de datos o un conjuntos organizado de informacion static. no contiene secuencias ni pasos ejecutables.  
+  
+## PARTE 2: Variables y constantes.  
+  
 
