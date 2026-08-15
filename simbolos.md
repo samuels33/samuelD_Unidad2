@@ -1,3 +1,4 @@
 # Simbolos para el diagrama de flujo.  
-![Simbolos](imagenes/simbolos.png)  
+![Simbolos](imagenes/simbolos.webp)  
+
 
