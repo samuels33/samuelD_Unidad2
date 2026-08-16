@@ -99,4 +99,52 @@ COSTANTE: porque su valor exacto en el vacio no cambia.
   
 ### 5. el radio de un circulo.  
 VARIABLE: porque depende de las dimenciones del circulo en cuention; no tiene un valor fijo.  
+  
+## PARTE 3. Caracteristicas de los algoritmos.  
+  
+## 1. ruta entre ciudades.  
+No cumple porque viola el principio de precicion y definicion. la condicion de parada "cuando los cambios en las distacia parecen lo suficientemente pequeños" es ambigua y subjetiva.  
+  
+## 2. suma de numeros.  
+No cumple porque viola la caracteristica de finitud y definicion de entradas. no se espesifica cuantos numeros se van a ingresar ni cuantos finaliza la lectura de datos para procesar a mostrar el resultado.  
+  
+## 3. Area de un rectangulo.  
+Si cumple porque es preciso, definido y infinito. posee entradas claras, un procedimiento inequivoco y un resultado unico y determinista.  
+  
+## 4. Conteo de votos.  
+Si cumple porque satisface todas las propiedades. es infinito porque establece una condicion explicita de parar, es preciso en sus instituciones de conteo y tiene entradas/salidas claramente delimitadas.  
+  
+## PARTE 4. Comprencion de Herramientas.  
+  
+### 1. el pseudocodigo utiliza simbolos estandares para reprecentar las operaciones logicas.  
+FALSO  
+  
+### 2. Los diagramas de flujo son una reprecentacion gracia de un algoritmo.  
+VERDADERO  
+  
+### 3. El pseudocodigo debe estar escrito en un lenguaje de programacion especifico.  
+FALSO  
+  
+### 4. Un diagrama de flujo simepre debe tener un inicio y un fin claramente definidos.  
+  
+## PARTE 5. Estructuras de control.  
+  
+¿para que sirve?  
+permiten que un algoritmo o programa tome caminos alternativos o ejecute un bloqueo de instrucciones varias veces "bucles", evitando que el codigo se ejecute unicamente de forma lineal.  
+
+### EJERMPLOS EN LA VIDA DIARIA.  
+
+### 1. Decirdir si llevar sombrilla al salir de la casa.  
+si el cielo esta nublado o el pronostico indica lluvia   
+Accion: llevar la sombrilla en el morral  
+sino  
+Accion: salir sin sombrilla.  
+  
+### 2. Determinar el estado academico de un estudiante segun su nota definitiva.  
+se calcula el promedio de las notas  
+si nota final ≥ 3.0  
+Resultado: el estudiante aprueba la materia  
+sino  
+Resultado: el estudiante pierde la materia.  
+
 
