@@ -126,8 +126,9 @@ VERDADERO
 FALSO  
   
 ### 4. Un diagrama de flujo simepre debe tener un inicio y un fin claramente definidos.  
+VERDADERO  
   
-## PARTE 5. Estructuras de control.  
+## PARTE 5. Estructuras de control
   
 ¿para que sirve?  
 permiten que un algoritmo o programa tome caminos alternativos o ejecute un bloqueo de instrucciones varias veces "bucles", evitando que el codigo se ejecute unicamente de forma lineal.  
